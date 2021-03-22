@@ -1,4 +1,4 @@
-# My Projects Portfolio
+# [My Projects Portfolio](https://github.com/TheWorldAtMyFingerTips/MyDataScienceProjects)
 
 ### Index
 This repositary holds my projects that I have done independently during the course of my studies:
