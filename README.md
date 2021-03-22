@@ -28,7 +28,10 @@ This repositary holds my projects that I have done independently during the cour
 3. PowerBI
 4. Excel Interactive Dashboard
 
-
+### Contact me
+Contact Platform | Contact Address
+LinkedIn | https://www.linkedin.com/in/megan-ng-7708a74/
+Email | megan_ng@hotmail.com
 
 
 
