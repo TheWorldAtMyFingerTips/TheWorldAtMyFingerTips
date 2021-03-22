@@ -1,3 +1,12 @@
+# My Projects Portfolio
+
+## Index
+This repositary holds my projects that I have done independently during the course of my studies:
+1. Python (Machine Learning)
+2. SQL
+3. PowerBI
+4. Excel Interactive Dashboard
+
 # Who am I?
 Hi there!
 
@@ -18,14 +27,6 @@ I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed 
     - [x] Built excel "automated" templates for regular reportings which led to time savings of 5 hours per week.
     - [x] Spearheaded analyses and reportings, which improved the desirabililty of Club 21's online listings in FarFetch's marketplace which drive a year-on-year sales increase of 24%.
 
-# My Projects Portfolio
-
-## Index
-This repositary holds my projects that I have done independently during the course of my studies:
-1. Python (Machine Learning)
-2. SQL
-3. PowerBI
-4. Excel Interactive Dashboard
 
 ### Contact me
 Contact Platform | Contact Address
