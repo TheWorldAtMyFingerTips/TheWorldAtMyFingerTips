@@ -1,7 +1,7 @@
 # Who am I?
 Hi there!
 
-I'm Megan, a data analytics enthusiast. Prior to this, I had lived and breathed retail merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fuelled by using data to simplify complexities into actionable insights. One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub.
+I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed Retail Merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fuelled by using data to simplify complexities into actionable insights. One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub, enjoying Data Science modules of Python, PowerBI, SQL, and Excel.
 
 ## My Career Highlights
 [*WILLIAMS SONOMA INC.*](http://www.williams-sonomainc.com)
