@@ -3,7 +3,7 @@
 ### Index
 This repositary holds my projects that I have done independently during the course of my studies:
 1. [Python (Machine Learning)](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/python/README.md)
-2. SQL
+2. [SQL](https://github.com/TheWorldAtMyFingerTips/My_Projects/tree/main/SQL/README.md)
 3. [PowerBI](https://github.com/TheWorldAtMyFingerTips/My_Projects/blob/main/PowerBI/README.md)
 4. [Excel Interactive Dashboard](https://github.com/TheWorldAtMyFingerTips/My_Projects/tree/main/Excel)
 
