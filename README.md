@@ -10,8 +10,7 @@ This repositary holds my projects that I have done independently during the cour
 ### Who am I?
 Hi there!
 
-I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed Retail Merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fueled by using data to simplify complexities into actionable insights. One thing led to another and now, I am currently pursuing an Associate Data Analyst course with NTUC LearningHub, enjoying Data Science modules of Python, PowerBI, SQL, and Excel.
-
+I'm Megan, a Data Analytics enthusiast. Prior to this, I had lived and breathed Retail Merchandising. While the bulk of my career was categorized as "merchandising", I find myself immensely drawn and fulfilled by the analytics part of merchandising. I'm fueled by using data to simplify complexities into actionable insights. One thing led to another, I pursued a course in Data Analytics, and have been working as a Business Analytics Specialist for Wing Tai Retail ever since.
 
 ### Contact me
 Contact Platform | Contact Address
